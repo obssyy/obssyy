@@ -26,4 +26,4 @@ Here are some of the technologies I'm most familiar with or have hands-on experi
 
 If you want to talk about projects, tech, or just hang out and talk dev stuff, hit me up on Discord!
 
-<img src="https://lanyard.cnrad.dev/api/788960311541366816?showDisplayName=true" alt="Discord Status" />
+<img src=[![Discord Presence](https://lanyard.cnrad.dev/api/788960311541366816)](https://discord.com/users/788960311541366816) />
