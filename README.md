@@ -22,7 +22,7 @@ Here are some of the technologies I'm most familiar with or have hands-on experi
 
 <br/>
 <br/>
-<br/> ## 💬 Let's chat!
+<br/> # 💬 Let's chat!
 
 If you want to talk about projects, tech, or just hang out and talk dev stuff, hit me up on Discord!
 
