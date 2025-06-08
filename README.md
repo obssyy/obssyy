@@ -6,7 +6,7 @@ I'm someone who loves turning ideas into code since I was 14. I started messing 
 
 Here are some of the technologies I'm most familiar with or have hands-on experience using:
 
-
+<a href="https://www.java.com/" target="_blank"><div><img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div></a>
 <a href="https://www.java.com/" target="_blank"><div><img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div></a>
 <br>
 <a href="https://www.mysql.com/" target="_blank"><div><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div></a>
