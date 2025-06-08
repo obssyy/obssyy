@@ -21,8 +21,8 @@ Here are some of the technologies I'm most familiar with or have hands-on experi
 <div><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
 
 <br/>
-<br/>
-<br/> # 💬 Let's chat!
+
+<br/>  💬 # Let's chat!
 
 If you want to talk about projects, tech, or just hang out and talk dev stuff, hit me up on Discord!
 
