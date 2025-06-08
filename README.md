@@ -19,3 +19,11 @@ Here are some of the technologies I'm most familiar with or have hands-on experi
 <div><img src="https://img.shields.io/badge/REDIS-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
 <div><img src="https://img.shields.io/badge/NATS-222222?style=flat&logo=nats&logoColor=white" alt="NATS" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
 <div><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
+
+<br/>
+<br/>
+<br/> ## 💬 Let's chat!
+
+If you want to talk about projects, tech, or just hang out and talk dev stuff, hit me up on Discord!
+
+<img src="https://lanyard.cnrad.dev/api/v2/discord/788960311541366816/badge" alt="Discord Status" />
