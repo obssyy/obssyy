@@ -10,7 +10,6 @@ Here are some of the technologies I'm most familiar with or have hands-on experi
 <div><img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
 
 <br/>
-<br/>
 
 <div><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
 <div><img src="https://img.shields.io/badge/MARIADB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" /><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-white?style=flat&color=grey" alt="3 stars" /></div>
