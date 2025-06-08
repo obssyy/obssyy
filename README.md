@@ -2,7 +2,7 @@
 
 I'm someone who loves turning ideas into code since I was 14. I started messing around with JavaScript, and over time I dived deep into the Java ecosystem — nowadays, I split my time between Java and Kotlin, always trying to make my projects cleaner, faster, and better organized.
 
-## 🧭 What do I usually work with?
+# 🧭 What do I usually work with?
 
 Here are some of the technologies I'm most familiar with or have hands-on experience using:
 
